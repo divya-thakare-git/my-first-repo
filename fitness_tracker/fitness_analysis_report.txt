@@ -1,0 +1,8 @@
+Total steps: 30500
+Average steps per day: 6100.0
+Total calories burned: 1920
+Average calories burned per day: 384.0
+Total distance traveled: 20.9 km
+Average distance per day: 4.18 km
+Total Active Minutes: 209 min
+Average Active Minutes: 41.8 min
